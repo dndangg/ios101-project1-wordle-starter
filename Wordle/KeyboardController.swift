@@ -29,7 +29,7 @@ class KeyboardController: NSObject,
                       numberOfItemsInSection section: Int) -> Int {
     // Exercise 1: Return the correct number of items in a section
     // Tip: There's a helper method you can use located in this class
-    // START YOUR CODE HERE test
+    // START YOUR CODE HERE test 2
     return 0
     // END YOUR CODE HERE
   }
