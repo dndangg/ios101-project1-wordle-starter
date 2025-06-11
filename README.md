@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a lot of trouble with Swift syntax—most of my time spent on this project was spent on looking up documentation on things like passing closures, calling functions correctly, and expecially syntax for passing arguments into functions. There were also some syntax rules I was unfamiliar with, such as putting a . before certain arguments. For example, cell.set(style: .initial). Hopefully, I won't be spending as much time struggling to figure it out moving forward.
 
 ## License
 
