@@ -1,18 +1,18 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Simple Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Dylan Dang**
 
-**Name of your app** is an app that ... [TODO] 
+**Simple Wordle** is an app that allows users to play a stripped-down version of wordle, a multi-round word guessing game that narrows down letters after each round.
 
-Time spent: **X** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
